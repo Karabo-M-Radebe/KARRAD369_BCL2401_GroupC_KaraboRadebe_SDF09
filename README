@@ -1,0 +1,14 @@
+### LEARNING REFLECTIONS README
+
+
+### **Responsive Footer Design With Tailwind CSS** 
+
+
+### Overview of the project
+In this project we were tasked with designing a responsive website footer with the use of Tailwind CSS syntax for the styling. The project required that we implement the learnt Tailwind styling to a starter code that was provided. In the styling, we had to look at text elements, an input element, a button element, and other elements related to the overall responsive layout.
+
+### Challenges Faced 
+A challenge that I faced was having to keep track of the long lines of code within the html doc as the styling elements were done alongside the structure of the website. Having to adapt to that volume of code in one line was a bit overwhelming.
+
+### Overall Learning Experience
+I enjoyed learning about Tailwind CSS, the framework allowed for a much smoother workflow as the framework classes were not only pre-defined but also in shorthand form in order to increase efficiency. I also enjoyed the experience of writing styling withi the html, even though it seemed daunting at first.
